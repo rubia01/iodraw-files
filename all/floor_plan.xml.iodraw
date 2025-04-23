@@ -124,9 +124,6 @@
         <mxCell id="48ef80bc37b76060-127" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.wallCorner;fillColor=#000000;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="393" y="243" width="100" height="385" as="geometry" />
         </mxCell>
-        <mxCell id="48ef80bc37b76060-128" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.wallU;fillColor=#000000;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="1021" y="-380" width="1210" height="2456" as="geometry" />
-        </mxCell>
         <mxCell id="48ef80bc37b76060-130" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.wallU;fillColor=#000000;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="789" y="702" width="481" height="335" as="geometry" />
         </mxCell>
