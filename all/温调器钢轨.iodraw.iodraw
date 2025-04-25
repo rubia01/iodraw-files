@@ -468,7 +468,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-374" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
-          <mxGeometry x="-19" y="3190" width="30" height="30" as="geometry" />
+          <mxGeometry x="-81" y="3180" width="81" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
