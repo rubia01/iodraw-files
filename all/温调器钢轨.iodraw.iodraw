@@ -710,8 +710,8 @@
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-594" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=-90;flipH=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-720" y="4280" width="610" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-595" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="4110" width="905" height="80" as="geometry" />
+        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-596" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="4150" width="930" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
