@@ -221,7 +221,7 @@
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-150" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2310" y="130" width="3760" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-151" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=5;width=40;labelBackgroundColor=none;fontColor=default;fillColor=default;" edge="1" parent="1">
+        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-151" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=5;width=36;labelBackgroundColor=none;fontColor=default;fillColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-420" y="150" as="sourcePoint" />
             <mxPoint x="1100" y="70" as="targetPoint" />
@@ -232,7 +232,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-152" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=5;width=40;labelBackgroundColor=none;fontColor=default;fillColor=default;" edge="1" parent="1">
+        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-152" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=5;width=36;labelBackgroundColor=none;fontColor=default;fillColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-420" y="390" as="sourcePoint" />
             <mxPoint x="1100" y="470" as="targetPoint" />
