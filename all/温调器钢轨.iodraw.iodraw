@@ -690,7 +690,10 @@
           <mxGeometry x="-2280" y="4720" width="40" height="360" as="geometry" />
         </mxCell>
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-587" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="180" y="3940" width="40" height="1760" as="geometry" />
+          <mxGeometry x="-680" y="3080" width="40" height="3480" as="geometry" />
+        </mxCell>
+        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-588" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="3090" width="40" height="3480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
