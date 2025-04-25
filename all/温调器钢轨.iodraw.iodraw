@@ -707,10 +707,10 @@
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-593" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=3;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="932" y="5005" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-594" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=-90;flipH=0;" vertex="1" parent="1">
+        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-594" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=-90;flipH=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-720" y="4280" width="610" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-595" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-595" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="-840" y="4110" width="905" height="80" as="geometry" />
         </mxCell>
       </root>
