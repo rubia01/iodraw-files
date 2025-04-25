@@ -380,12 +380,12 @@
         </mxCell>
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-393" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=5;width=36;labelBackgroundColor=none;fontColor=default;fillColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-70" y="4380" as="sourcePoint" />
-            <mxPoint x="-1590" y="4300" as="targetPoint" />
+            <mxPoint x="-335" y="3290" as="sourcePoint" />
+            <mxPoint x="-1855" y="3210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-460" y="4380" />
-              <mxPoint x="-840" y="4370" />
-              <mxPoint x="-1220" y="4350" />
+              <mxPoint x="-725" y="3290" />
+              <mxPoint x="-1105" y="3280" />
+              <mxPoint x="-1485" y="3260" />
             </Array>
           </mxGeometry>
         </mxCell>
