@@ -696,7 +696,10 @@
           <mxGeometry x="-680" y="3240" width="40" height="3480" as="geometry" />
         </mxCell>
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-589" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=3;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="935" y="4780" width="15" height="15" as="geometry" />
+          <mxGeometry x="932.5" y="4780" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-591" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=3;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="932.5" y="4850" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
