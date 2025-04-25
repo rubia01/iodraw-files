@@ -707,6 +707,9 @@
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-593" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=3;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="932" y="5005" width="15" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-597" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="4200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
