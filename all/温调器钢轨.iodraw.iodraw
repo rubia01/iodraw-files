@@ -149,7 +149,7 @@
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-123" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;行车方向&lt;/font&gt;" style="shape=singleArrow;whiteSpace=wrap;html=1;strokeWidth=5;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2400" y="-710" width="330" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-126" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;行车方向&lt;/font&gt;" style="shape=singleArrow;whiteSpace=wrap;html=1;strokeWidth=5;flipH=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-126" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;行车方向&lt;/font&gt;" style="shape=singleArrow;whiteSpace=wrap;html=1;strokeWidth=5;flipH=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1185" y="930" width="330" height="180" as="geometry" />
         </mxCell>
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-129" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;行&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
