@@ -530,7 +530,7 @@
             <mxPoint x="1100" y="2499.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-272" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-272" value="" style="group;flipH=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2290" y="4080" width="3760" height="520" as="geometry" />
         </mxCell>
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-180" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;labelBackgroundColor=none;" vertex="1" parent="FWvKXxMR3Lr-mqbu0FBM-272">
