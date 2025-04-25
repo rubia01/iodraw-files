@@ -518,17 +518,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-441" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=5;width=36;labelBackgroundColor=none;fontColor=default;fillColor=default;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-345" y="2710" as="sourcePoint" />
-            <mxPoint x="1175" y="2790" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="45" y="2710" />
-              <mxPoint x="425" y="2720" />
-              <mxPoint x="805" y="2740" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-442" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;rotation=90;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1595" y="2520" width="50" height="540" as="geometry" />
         </mxCell>
