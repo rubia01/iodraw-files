@@ -389,7 +389,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-394" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=5;width=37.89473684210527;labelBackgroundColor=none;fontColor=default;fillColor=default;endSize=-1.4736842105263157;endWidth=15.900277008310246;" edge="1" parent="1">
+        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-394" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=5;width=37.89473684210527;labelBackgroundColor=none;fontColor=default;fillColor=default;endSize=-1.6526315789473687;endWidth=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-270" y="4070" as="sourcePoint" />
             <mxPoint x="-1790" y="4150" as="targetPoint" />
