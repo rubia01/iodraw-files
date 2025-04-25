@@ -634,10 +634,10 @@
         </mxCell>
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-467" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endSize=-3.05;fillColor=default;width=40;endWidth=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1900" y="4530" as="sourcePoint" />
-            <mxPoint x="-534" y="4420" as="targetPoint" />
+            <mxPoint x="-1920" y="3620" as="sourcePoint" />
+            <mxPoint x="-340" y="3530" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1220" y="4440" />
+              <mxPoint x="-1026" y="3550" />
             </Array>
           </mxGeometry>
         </mxCell>
