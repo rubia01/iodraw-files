@@ -391,12 +391,12 @@
         </mxCell>
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-394" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=5;width=36;labelBackgroundColor=none;fontColor=default;fillColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2440" y="4510" as="sourcePoint" />
-            <mxPoint x="-920" y="4590" as="targetPoint" />
+            <mxPoint x="-2000" y="4200" as="sourcePoint" />
+            <mxPoint x="-480" y="4280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2050" y="4510" />
-              <mxPoint x="-1670" y="4520" />
-              <mxPoint x="-1290" y="4540" />
+              <mxPoint x="-1610" y="4200" />
+              <mxPoint x="-1230" y="4210" />
+              <mxPoint x="-850" y="4230" />
             </Array>
           </mxGeometry>
         </mxCell>
