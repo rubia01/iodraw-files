@@ -707,10 +707,10 @@
         <mxCell id="FWvKXxMR3Lr-mqbu0FBM-593" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=3;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="932" y="5005" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-598" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FWvKXxMR3Lr-mqbu0FBM-598" value="" style="shape=link;endArrow=classic;html=1;rounded=0;width=218.57142857142858;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-520" y="4460" as="sourcePoint" />
-            <mxPoint x="-470" y="4410" as="targetPoint" />
+            <mxPoint x="610" y="4310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
