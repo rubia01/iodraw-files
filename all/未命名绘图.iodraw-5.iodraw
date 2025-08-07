@@ -29,16 +29,19 @@
           <mxGeometry x="900" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1trg6eazwndH263M-vM6-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="340" width="40" height="160" as="geometry" />
+          <mxGeometry x="1080" y="320" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="1trg6eazwndH263M-vM6-15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="440" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="1060" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1trg6eazwndH263M-vM6-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="340" width="40" height="160" as="geometry" />
+          <mxGeometry x="1240" y="320" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="1trg6eazwndH263M-vM6-17" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="600" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="1220" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1trg6eazwndH263M-vM6-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
