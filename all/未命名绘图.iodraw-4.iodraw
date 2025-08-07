@@ -13,6 +13,18 @@
         <mxCell id="YVrZ_v75BWniMevcxvkR-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="1100" y="720" width="80" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YVrZ_v75BWniMevcxvkR-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="790" width="40" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrZ_v75BWniMevcxvkR-7" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="720" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrZ_v75BWniMevcxvkR-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="810" width="40" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="YVrZ_v75BWniMevcxvkR-9" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="740" width="80" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
