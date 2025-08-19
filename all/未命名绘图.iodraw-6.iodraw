@@ -9,8 +9,8 @@
         </mxCell>
         <mxCell id="VJ4cdZxzMOtTKk1txzgT-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CC0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="320" as="sourcePoint" />
-            <mxPoint x="200" y="120" as="targetPoint" />
+            <mxPoint x="770" y="420" as="sourcePoint" />
+            <mxPoint x="770" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VJ4cdZxzMOtTKk1txzgT-9" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CC0000;" edge="1" parent="1">
