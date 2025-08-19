@@ -8,16 +8,10 @@
           <mxGeometry x="400" y="160" width="745" height="588" as="geometry" />
         </mxCell>
         <mxCell id="VJ4cdZxzMOtTKk1txzgT-32" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;X&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="1100" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VJ4cdZxzMOtTKk1txzgT-33" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Y&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="760" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VJ4cdZxzMOtTKk1txzgT-39" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;strokeColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="79.99999999999955" as="sourcePoint" />
-            <mxPoint x="800" y="799.9999999999995" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="780" y="760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VJ4cdZxzMOtTKk1txzgT-40" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=10;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -27,8 +21,8 @@
         </mxCell>
         <mxCell id="VJ4cdZxzMOtTKk1txzgT-41" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=10;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="800" as="sourcePoint" />
-            <mxPoint x="1680" y="800" as="targetPoint" />
+            <mxPoint x="780" y="800" as="sourcePoint" />
+            <mxPoint x="780" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
