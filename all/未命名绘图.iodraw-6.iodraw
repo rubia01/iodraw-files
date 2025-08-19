@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VJ4cdZxzMOtTKk1txzgT-18" value="横向为X轴&lt;div&gt;纵向为Y轴&lt;/div&gt;&lt;div&gt;箭头方向为正向&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="160" width="200" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
