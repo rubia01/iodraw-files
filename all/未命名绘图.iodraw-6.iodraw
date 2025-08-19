@@ -19,7 +19,7 @@
             <mxPoint x="780" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VJ4cdZxzMOtTKk1txzgT-18" value="横向为X轴&lt;div&gt;纵向为Y轴&lt;/div&gt;&lt;div&gt;箭头方向为正向&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJ4cdZxzMOtTKk1txzgT-18" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;横向为X轴&lt;/font&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;纵向为Y轴&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;箭头方向为正向&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="160" width="200" height="130" as="geometry" />
         </mxCell>
       </root>
