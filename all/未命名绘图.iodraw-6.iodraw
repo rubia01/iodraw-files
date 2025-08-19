@@ -22,8 +22,8 @@
         <mxCell id="VJ4cdZxzMOtTKk1txzgT-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;fillColor=#99CCFF;gradientColor=#004C99;flipH=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="1170" y="390" width="70" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VJ4cdZxzMOtTKk1txzgT-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;fillColor=#99CCFF;gradientColor=#004C99;rotation=-90;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="60" width="70" height="110" as="geometry" />
+        <mxCell id="VJ4cdZxzMOtTKk1txzgT-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;fillColor=#99CCFF;gradientColor=#004C99;rotation=90;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="60" width="70" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
