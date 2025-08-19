@@ -25,8 +25,8 @@
             <mxPoint x="780" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VJ4cdZxzMOtTKk1txzgT-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;" vertex="1" parent="1">
-          <mxGeometry x="90" y="290" width="60" height="100" as="geometry" />
+        <mxCell id="VJ4cdZxzMOtTKk1txzgT-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
