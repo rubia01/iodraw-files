@@ -28,7 +28,7 @@
         <mxCell id="VJ4cdZxzMOtTKk1txzgT-39" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="800" as="sourcePoint" />
-            <mxPoint x="1640" y="800" as="targetPoint" />
+            <mxPoint x="720" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
