@@ -9,8 +9,8 @@
         </mxCell>
         <mxCell id="VJ4cdZxzMOtTKk1txzgT-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=9.645061728395062;endSize=11.340229885057472;width=8.275862068965518;fillColor=#FF3333;strokeColor=#FF3333;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="400" as="sourcePoint" />
-            <mxPoint x="120" y="80" as="targetPoint" />
+            <mxPoint x="780" y="460" as="sourcePoint" />
+            <mxPoint x="780" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VJ4cdZxzMOtTKk1txzgT-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=9.645061728395062;endSize=11.340229885057472;width=8.275862068965518;fillColor=#FF3333;strokeColor=#FF3333;" edge="1" parent="1">
@@ -23,7 +23,7 @@
           <mxGeometry x="410" y="420" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VJ4cdZxzMOtTKk1txzgT-24" value="&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;Y&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="710" width="40" height="40" as="geometry" />
+          <mxGeometry x="790" y="160" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
