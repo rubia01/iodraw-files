@@ -23,10 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ctApM1fMZexxUz9c0_Lx-5" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Y&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="600" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ctApM1fMZexxUz9c0_Lx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctApM1fMZexxUz9c0_Lx-3" target="ctApM1fMZexxUz9c0_Lx-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1550" y="690" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
