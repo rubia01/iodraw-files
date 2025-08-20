@@ -25,8 +25,11 @@
             <mxPoint x="1530" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ctApM1fMZexxUz9c0_Lx-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="1120" width="60" height="100" as="geometry" />
+        <mxCell id="ctApM1fMZexxUz9c0_Lx-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;gradientColor=#66B2FF;fillColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="1059" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ctApM1fMZexxUz9c0_Lx-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;gradientColor=#66B2FF;fillColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="1069" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
