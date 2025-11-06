@@ -253,6 +253,9 @@
         <mxCell id="fJ9vsbsEJUusRA37SSNn-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1680" y="1650" width="1960" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fJ9vsbsEJUusRA37SSNn-102" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="1900" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
