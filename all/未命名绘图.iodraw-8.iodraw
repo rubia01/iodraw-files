@@ -23,7 +23,7 @@
           <mxGeometry x="200" y="150" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fJ9vsbsEJUusRA37SSNn-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;rotation=0;direction=west;flipH=1;strokeWidth=0;fillStyle=auto;fillColor=#bdbdbd;" vertex="1" parent="1">
-          <mxGeometry x="880" y="150" width="80" height="70" as="geometry" />
+          <mxGeometry x="800" y="150" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fJ9vsbsEJUusRA37SSNn-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="260" width="80" height="370" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="1440" y="170" width="890" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fJ9vsbsEJUusRA37SSNn-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillStyle=auto;fillColor=#bdbdbd;" vertex="1" parent="1">
-          <mxGeometry x="730" y="220" width="60" height="40" as="geometry" />
+          <mxGeometry x="660" y="220" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
