@@ -100,6 +100,9 @@
         <mxCell id="fJ9vsbsEJUusRA37SSNn-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1680" y="1200" width="2370" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="fJ9vsbsEJUusRA37SSNn-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1680" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
