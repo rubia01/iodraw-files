@@ -25,7 +25,7 @@
             <mxPoint x="1040" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HvfzM_xExkiv4-WSPh35-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HvfzM_xExkiv4-WSPh35-5" target="HvfzM_xExkiv4-WSPh35-3">
+        <mxCell id="HvfzM_xExkiv4-WSPh35-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HvfzM_xExkiv4-WSPh35-14" target="HvfzM_xExkiv4-WSPh35-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="501" as="sourcePoint" />
             <mxPoint x="1080" y="450" as="targetPoint" />
@@ -52,8 +52,17 @@
         <mxCell id="HvfzM_xExkiv4-WSPh35-12" value="Lora" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="210" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HvfzM_xExkiv4-WSPh35-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HvfzM_xExkiv4-WSPh35-5" target="HvfzM_xExkiv4-WSPh35-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="310" as="sourcePoint" />
+            <mxPoint x="1000" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HvfzM_xExkiv4-WSPh35-14" value="Lora" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="383" width="60" height="30" as="geometry" />
+          <mxGeometry x="870" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvfzM_xExkiv4-WSPh35-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
