@@ -31,7 +31,7 @@
             <mxPoint x="1080" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HvfzM_xExkiv4-WSPh35-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HvfzM_xExkiv4-WSPh35-1" target="HvfzM_xExkiv4-WSPh35-5">
+        <mxCell id="HvfzM_xExkiv4-WSPh35-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HvfzM_xExkiv4-WSPh35-16" target="HvfzM_xExkiv4-WSPh35-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="290" as="sourcePoint" />
             <mxPoint x="450" y="240" as="targetPoint" />
@@ -61,8 +61,17 @@
         <mxCell id="HvfzM_xExkiv4-WSPh35-14" value="Lora" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="320" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HvfzM_xExkiv4-WSPh35-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HvfzM_xExkiv4-WSPh35-1" target="HvfzM_xExkiv4-WSPh35-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="401" y="199" as="sourcePoint" />
+            <mxPoint x="680" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HvfzM_xExkiv4-WSPh35-16" value="电源线、网线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="160" width="90" height="30" as="geometry" />
+          <mxGeometry x="500" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvfzM_xExkiv4-WSPh35-18" value="电源线、网线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="220" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
