@@ -24,8 +24,8 @@
         </mxCell>
         <mxCell id="O1_rs7XZcIZ5v07qZ9fB-28" value="" style="shape=mxgraph.arrows2.wedgeArrowDashed2;html=1;bendable=0;startWidth=50;stepSize=15;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1072" y="150" as="sourcePoint" />
-            <mxPoint x="1190" y="150" as="targetPoint" />
+            <mxPoint x="902" y="284" as="sourcePoint" />
+            <mxPoint x="1020" y="284" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O1_rs7XZcIZ5v07qZ9fB-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;抓拍&lt;/h1&gt;&lt;p&gt;1、当收到报警时，进行若干照片抓拍，将抓拍到的图片发送到报警屏(网关)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="O1_rs7XZcIZ5v07qZ9fB-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据发送&lt;/h1&gt;&lt;p&gt;将监测到的数据通过UDP发送到报警屏(网关)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="287" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="O1_rs7XZcIZ5v07qZ9fB-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1037" y="160" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
