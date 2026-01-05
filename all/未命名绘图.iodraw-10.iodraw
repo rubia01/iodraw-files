@@ -31,6 +31,12 @@
             <mxPoint x="1080" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HvfzM_xExkiv4-WSPh35-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HvfzM_xExkiv4-WSPh35-1" target="HvfzM_xExkiv4-WSPh35-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="sourcePoint" />
+            <mxPoint x="450" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
