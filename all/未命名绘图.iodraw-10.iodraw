@@ -14,7 +14,7 @@
           <mxGeometry x="555" y="420" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HvfzM_xExkiv4-WSPh35-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;收到雷达数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="550" width="160" height="50" as="geometry" />
+          <mxGeometry x="360" y="520" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
