@@ -49,14 +49,20 @@
         <mxCell id="O1_rs7XZcIZ5v07qZ9fB-18" value="&lt;div&gt;太阳能80Ah 40A输出&lt;/div&gt;&lt;div&gt;3块太阳能板&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="105" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O1_rs7XZcIZ5v07qZ9fB-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="O1_rs7XZcIZ5v07qZ9fB-2" target="O1_rs7XZcIZ5v07qZ9fB-17">
+        <mxCell id="O1_rs7XZcIZ5v07qZ9fB-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="O1_rs7XZcIZ5v07qZ9fB-21" target="O1_rs7XZcIZ5v07qZ9fB-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="260" as="sourcePoint" />
             <mxPoint x="950" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O1_rs7XZcIZ5v07qZ9fB-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="135" width="60" height="30" as="geometry" />
+        <mxCell id="O1_rs7XZcIZ5v07qZ9fB-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="O1_rs7XZcIZ5v07qZ9fB-2" target="O1_rs7XZcIZ5v07qZ9fB-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1072" y="270" as="sourcePoint" />
+            <mxPoint x="1072" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1_rs7XZcIZ5v07qZ9fB-21" value="电源线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1041.5" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
