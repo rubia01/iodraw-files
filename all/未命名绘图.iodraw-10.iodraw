@@ -82,8 +82,14 @@
         <mxCell id="HvfzM_xExkiv4-WSPh35-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据发送&lt;/h1&gt;&lt;p&gt;将监测到的数据通过Lora发送到网关&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1110" y="355" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HvfzM_xExkiv4-WSPh35-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HvfzM_xExkiv4-WSPh35-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;报警判断&lt;/h1&gt;&lt;p&gt;对收到的感知单元数据进行判断，分析其是否为报警数据，是则广播报警信息&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="124" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HvfzM_xExkiv4-WSPh35-23" value="" style="shape=mxgraph.arrows2.wedgeArrowDashed2;html=1;bendable=0;startWidth=50;stepSize=15;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="650" y="440" as="sourcePoint" />
+            <mxPoint x="750" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
