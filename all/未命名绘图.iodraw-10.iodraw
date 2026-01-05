@@ -79,7 +79,7 @@
         <mxCell id="HvfzM_xExkiv4-WSPh35-18" value="电源线、网线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="320" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HvfzM_xExkiv4-WSPh35-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;报警触发&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HvfzM_xExkiv4-WSPh35-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;报警触发&lt;/h1&gt;&lt;p&gt;1、当振动或者倾角超过阈值时，&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1110" y="350" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
