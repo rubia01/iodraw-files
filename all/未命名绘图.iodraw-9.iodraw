@@ -40,7 +40,7 @@
         <mxCell id="O1_rs7XZcIZ5v07qZ9fB-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
           <mxGeometry x="1037" y="160" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="O1_rs7XZcIZ5v07qZ9fB-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;报警上传&lt;/h1&gt;&lt;p&gt;将收到的报警图片，报警一段时间数据&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O1_rs7XZcIZ5v07qZ9fB-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;报警上传&lt;/h1&gt;&lt;p&gt;将收到的报警图片，报警一段时间数据上传至平台&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="150" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
