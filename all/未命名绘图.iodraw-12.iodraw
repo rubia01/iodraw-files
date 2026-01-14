@@ -48,10 +48,14 @@
           <mxGeometry x="740" y="750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hEiLxE1MawAlggkCYP-s-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hEiLxE1MawAlggkCYP-s-12" target="hEiLxE1MawAlggkCYP-s-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="965" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hEiLxE1MawAlggkCYP-s-12" value="一段时间&lt;div&gt;获取一次数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="780" width="170" height="30" as="geometry" />
+          <mxGeometry x="830" y="780" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
