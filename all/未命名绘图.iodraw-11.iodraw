@@ -31,6 +31,9 @@
         <mxCell id="WOhMD9SdeTmEeYSRSdwP-7" value="控制相机进行抓拍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="340" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="WOhMD9SdeTmEeYSRSdwP-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
