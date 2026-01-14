@@ -22,6 +22,9 @@
         <mxCell id="WOhMD9SdeTmEeYSRSdwP-5" value="根据雷达数据产生报警信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="260" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="WOhMD9SdeTmEeYSRSdwP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
