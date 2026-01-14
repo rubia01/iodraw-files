@@ -23,10 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WOhMD9SdeTmEeYSRSdwP-5" value="根据雷达数据发出报警状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="210" width="200" height="40" as="geometry" />
+          <mxGeometry x="420" y="260" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WOhMD9SdeTmEeYSRSdwP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="420" y="340" width="200" height="240" as="geometry" />
+          <mxGeometry x="420" y="320" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="WOhMD9SdeTmEeYSRSdwP-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="360" width="160" height="40" as="geometry" />
