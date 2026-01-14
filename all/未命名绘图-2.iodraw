@@ -26,7 +26,7 @@
           <mxGeometry x="510" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3llCbi4yxwrwWA4wTDzy-8" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3llCbi4yxwrwWA4wTDzy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WOhMD9SdeTmEeYSRSdwP-1" target="3llCbi4yxwrwWA4wTDzy-13">
           <mxGeometry relative="1" as="geometry">
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="3llCbi4yxwrwWA4wTDzy-13" value="雷达数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3llCbi4yxwrwWA4wTDzy-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
