@@ -47,14 +47,6 @@
         <mxCell id="hEiLxE1MawAlggkCYP-s-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="750" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hEiLxE1MawAlggkCYP-s-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hEiLxE1MawAlggkCYP-s-12" target="hEiLxE1MawAlggkCYP-s-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="875" y="960" />
-              <mxPoint x="800" y="960" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hEiLxE1MawAlggkCYP-s-12" value="一段时间&lt;div&gt;获取一次数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="780" width="170" height="30" as="geometry" />
         </mxCell>
