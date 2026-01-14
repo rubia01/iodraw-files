@@ -49,8 +49,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hEiLxE1MawAlggkCYP-s-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="760" width="60" height="30" as="geometry" />
+        <mxCell id="hEiLxE1MawAlggkCYP-s-12" value="一段时间获取一次数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="760" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
