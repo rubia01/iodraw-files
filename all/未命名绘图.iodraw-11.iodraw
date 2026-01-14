@@ -28,8 +28,8 @@
         <mxCell id="WOhMD9SdeTmEeYSRSdwP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="420" y="320" width="200" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="WOhMD9SdeTmEeYSRSdwP-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="360" width="160" height="40" as="geometry" />
+        <mxCell id="WOhMD9SdeTmEeYSRSdwP-7" value="控制相机进行抓拍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="340" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
