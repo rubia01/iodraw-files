@@ -10,13 +10,9 @@
         <mxCell id="WOhMD9SdeTmEeYSRSdwP-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;雷达&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3llCbi4yxwrwWA4wTDzy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3llCbi4yxwrwWA4wTDzy-8" target="WOhMD9SdeTmEeYSRSdwP-1">
+        <mxCell id="3llCbi4yxwrwWA4wTDzy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3llCbi4yxwrwWA4wTDzy-3">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3llCbi4yxwrwWA4wTDzy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3llCbi4yxwrwWA4wTDzy-3" target="3llCbi4yxwrwWA4wTDzy-8">
-          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="370" as="targetPoint" />
             <Array as="points">
               <mxPoint x="640" y="470" />
             </Array>
@@ -24,9 +20,6 @@
         </mxCell>
         <mxCell id="3llCbi4yxwrwWA4wTDzy-3" value="是否触发&lt;div&gt;报警&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="440" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3llCbi4yxwrwWA4wTDzy-8" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3llCbi4yxwrwWA4wTDzy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WOhMD9SdeTmEeYSRSdwP-1" target="3llCbi4yxwrwWA4wTDzy-13">
           <mxGeometry relative="1" as="geometry">
