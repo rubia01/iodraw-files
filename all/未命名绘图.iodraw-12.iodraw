@@ -126,7 +126,7 @@
         <mxCell id="hEiLxE1MawAlggkCYP-s-71" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;发生报警&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="1417" y="1386" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hEiLxE1MawAlggkCYP-s-72" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;报警处理&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hEiLxE1MawAlggkCYP-s-72" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;报警处理&lt;/h1&gt;&lt;p&gt;获取报警感知单元的信息&lt;/p&gt;&lt;p&gt;采集10s报警数据&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1340" y="1791" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
