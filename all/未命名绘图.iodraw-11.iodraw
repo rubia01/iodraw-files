@@ -14,13 +14,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WOhMD9SdeTmEeYSRSdwP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="400" y="240" width="280" height="440" as="geometry" />
+          <mxGeometry x="400" y="240" width="240" height="440" as="geometry" />
         </mxCell>
         <mxCell id="WOhMD9SdeTmEeYSRSdwP-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;声光报警屏&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WOhMD9SdeTmEeYSRSdwP-5" value="根据雷达数据产生报警信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="200" height="40" as="geometry" />
+          <mxGeometry x="420" y="260" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
