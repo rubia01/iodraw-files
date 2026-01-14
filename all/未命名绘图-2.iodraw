@@ -11,7 +11,7 @@
           <mxGeometry x="500" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3llCbi4yxwrwWA4wTDzy-3" value="是否触发&lt;div&gt;报警&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="440" width="100" height="60" as="geometry" />
+          <mxGeometry x="510" y="410" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3llCbi4yxwrwWA4wTDzy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WOhMD9SdeTmEeYSRSdwP-1" target="3llCbi4yxwrwWA4wTDzy-13">
           <mxGeometry relative="1" as="geometry">
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="3llCbi4yxwrwWA4wTDzy-13" value="雷达数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3llCbi4yxwrwWA4wTDzy-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;雷达&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="530" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
