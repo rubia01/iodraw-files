@@ -5,10 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WOhMD9SdeTmEeYSRSdwP-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;雷达&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3llCbi4yxwrwWA4wTDzy-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;是否报警&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="280" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
