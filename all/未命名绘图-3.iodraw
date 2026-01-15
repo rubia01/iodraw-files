@@ -40,7 +40,7 @@
             <mxPoint x="540" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hkp4wsk3gFedDXtesYYN-21" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="Hkp4wsk3gFedDXtesYYN-21" value="网关安装在警示屏" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="800" y="260" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
