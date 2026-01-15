@@ -45,8 +45,11 @@
         <mxCell id="Hkp4wsk3gFedDXtesYYN-17" value="网线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="713" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hkp4wsk3gFedDXtesYYN-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="Hkp4wsk3gFedDXtesYYN-18" value="网线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="722.5" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hkp4wsk3gFedDXtesYYN-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1024" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
