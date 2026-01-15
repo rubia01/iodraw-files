@@ -42,6 +42,9 @@
         <mxCell id="Hkp4wsk3gFedDXtesYYN-16" value="Lora/485" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="385.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Hkp4wsk3gFedDXtesYYN-17" value="网线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="713" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
