@@ -19,6 +19,21 @@
         <mxCell id="k7WexfGggGOtuR95qXh0-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="230" width="880" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="k7WexfGggGOtuR95qXh0-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="640" width="1010" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="k7WexfGggGOtuR95qXh0-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7WexfGggGOtuR95qXh0-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="680" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7WexfGggGOtuR95qXh0-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="730" width="930" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="k7WexfGggGOtuR95qXh0-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="750" width="880" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
