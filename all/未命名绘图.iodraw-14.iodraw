@@ -63,18 +63,6 @@
         <mxCell id="yeD3o7_gcSMESnLeNVL9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yeD3o7_gcSMESnLeNVL9-24" target="yeD3o7_gcSMESnLeNVL9-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yeD3o7_gcSMESnLeNVL9-51" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
-          <mxGeometry x="1074" y="63" width="380" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="yeD3o7_gcSMESnLeNVL9-52" value="Lane 1" style="swimlane;startSize=20;" vertex="1" parent="yeD3o7_gcSMESnLeNVL9-51">
-          <mxGeometry x="20" width="120" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="yeD3o7_gcSMESnLeNVL9-53" value="Lane 2" style="swimlane;startSize=20;" vertex="1" parent="yeD3o7_gcSMESnLeNVL9-51">
-          <mxGeometry x="140" width="120" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="yeD3o7_gcSMESnLeNVL9-54" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="yeD3o7_gcSMESnLeNVL9-51">
-          <mxGeometry x="260" width="120" height="480" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
