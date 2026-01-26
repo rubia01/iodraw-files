@@ -17,7 +17,7 @@
           <mxGeometry x="520" y="840" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yeD3o7_gcSMESnLeNVL9-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;相机二&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1040" width="100" height="60" as="geometry" />
+          <mxGeometry x="520" y="1038" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yeD3o7_gcSMESnLeNVL9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yeD3o7_gcSMESnLeNVL9-11" target="yeD3o7_gcSMESnLeNVL9-13">
           <mxGeometry relative="1" as="geometry" />
