@@ -282,17 +282,6 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4FtTDjSlPVC0eqNbR4yA-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;相机一&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="285" y="1710" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4FtTDjSlPVC0eqNbR4yA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.497;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4FtTDjSlPVC0eqNbR4yA-9" target="4FtTDjSlPVC0eqNbR4yA-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4FtTDjSlPVC0eqNbR4yA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4FtTDjSlPVC0eqNbR4yA-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="215" y="1708" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4FtTDjSlPVC0eqNbR4yA-13" value="路由器" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="549" y="1538" width="240" height="70" as="geometry" />
         </mxCell>
@@ -321,6 +310,9 @@
         </mxCell>
         <mxCell id="4FtTDjSlPVC0eqNbR4yA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4FtTDjSlPVC0eqNbR4yA-3" target="4FtTDjSlPVC0eqNbR4yA-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FtTDjSlPVC0eqNbR4yA-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="1713" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
