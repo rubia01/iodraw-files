@@ -303,7 +303,7 @@
             <mxRectangle width="114" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4FtTDjSlPVC0eqNbR4yA-18" value="GE4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4FtTDjSlPVC0eqNbR4yA-14">
+        <mxCell id="4FtTDjSlPVC0eqNbR4yA-18" value="GE4&lt;div&gt;192.168.1.1&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4FtTDjSlPVC0eqNbR4yA-14">
           <mxGeometry x="339" width="111" height="40" as="geometry">
             <mxRectangle width="111" height="40" as="alternateBounds" />
           </mxGeometry>
