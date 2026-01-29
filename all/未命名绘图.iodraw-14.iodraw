@@ -251,11 +251,11 @@
         <mxCell id="yeD3o7_gcSMESnLeNVL9-168" value="&lt;span style=&quot;font-family: var(--monospace); color: rgb(51, 51, 51); letter-spacing: 0pt; font-size: 9pt; background: rgb(248, 248, 248);&quot;&gt;fc00:0:5142:2003:800::102&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;flipH=1;position2=0.18;" parent="1" vertex="1">
           <mxGeometry x="1303" y="1303" width="157" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4FtTDjSlPVC0eqNbR4yA-2" value="交换机" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="4FtTDjSlPVC0eqNbR4yA-2" value="交换机" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;flipH=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="1538" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4FtTDjSlPVC0eqNbR4yA-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="4FtTDjSlPVC0eqNbR4yA-2">
-          <mxGeometry y="30" width="300" height="40" as="geometry" />
+          <mxGeometry width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4FtTDjSlPVC0eqNbR4yA-4" value="网口一" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4FtTDjSlPVC0eqNbR4yA-3">
           <mxGeometry width="60" height="40" as="geometry">
@@ -282,11 +282,11 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4FtTDjSlPVC0eqNbR4yA-13" value="路由器" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="4FtTDjSlPVC0eqNbR4yA-13" value="路由器" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;flipH=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="221" y="1391" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4FtTDjSlPVC0eqNbR4yA-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="4FtTDjSlPVC0eqNbR4yA-13">
-          <mxGeometry y="30" width="240" height="40" as="geometry" />
+          <mxGeometry width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4FtTDjSlPVC0eqNbR4yA-15" value="GE1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4FtTDjSlPVC0eqNbR4yA-14">
           <mxGeometry width="60" height="40" as="geometry">
@@ -308,10 +308,10 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4FtTDjSlPVC0eqNbR4yA-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;192.168.1.63&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4FtTDjSlPVC0eqNbR4yA-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;192.168.1.63&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="152" y="1674" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4FtTDjSlPVC0eqNbR4yA-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;192.168.1.64&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4FtTDjSlPVC0eqNbR4yA-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;192.168.1.64&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="292" y="1674" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4FtTDjSlPVC0eqNbR4yA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.093;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4FtTDjSlPVC0eqNbR4yA-21" target="4FtTDjSlPVC0eqNbR4yA-3">
