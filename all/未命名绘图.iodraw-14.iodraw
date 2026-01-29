@@ -312,7 +312,7 @@
           <mxGeometry x="22" y="1674" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4FtTDjSlPVC0eqNbR4yA-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;fc00:0:5142:2003:800::602&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;flipV=0;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="292" y="1674" width="120" height="60" as="geometry" />
+          <mxGeometry x="292" y="1674" width="242" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4FtTDjSlPVC0eqNbR4yA-26" value="交换机" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="663" y="1538" width="300" height="70" as="geometry" />
