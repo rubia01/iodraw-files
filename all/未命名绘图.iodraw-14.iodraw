@@ -346,12 +346,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4FtTDjSlPVC0eqNbR4yA-33" value="路由器" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="593" y="1391" width="346" height="70" as="geometry" />
+          <mxGeometry x="655" y="1387" width="346" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4FtTDjSlPVC0eqNbR4yA-34" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="4FtTDjSlPVC0eqNbR4yA-33">
           <mxGeometry y="30" width="346" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4FtTDjSlPVC0eqNbR4yA-35" value="GE1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4FtTDjSlPVC0eqNbR4yA-34">
+        <mxCell id="4FtTDjSlPVC0eqNbR4yA-35" value="GE1&lt;div&gt;192.168.2.1&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="4FtTDjSlPVC0eqNbR4yA-34">
           <mxGeometry width="87" height="40" as="geometry">
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
