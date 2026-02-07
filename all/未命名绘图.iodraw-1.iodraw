@@ -111,36 +111,6 @@
         <mxCell id="d3PKZgTGXaKYkBnGd6AW-64" value="COM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="d3PKZgTGXaKYkBnGd6AW-59">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-69" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;" vertex="1" parent="1">
-          <mxGeometry x="206" y="1090" width="9" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-70" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;" vertex="1" parent="1">
-          <mxGeometry x="215" y="1090" width="9" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-71" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;" vertex="1" parent="1">
-          <mxGeometry x="224" y="1090" width="9" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-72" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;" vertex="1" parent="1">
-          <mxGeometry x="233" y="1090" width="9" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-73" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;" vertex="1" parent="1">
-          <mxGeometry x="242" y="1090" width="9" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-74" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;" vertex="1" parent="1">
-          <mxGeometry x="251" y="1090" width="4" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-75" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1090" width="9" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-76" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;" vertex="1" parent="1">
-          <mxGeometry x="269" y="1090" width="9" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-77" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;" vertex="1" parent="1">
-          <mxGeometry x="278" y="1090" width="9" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-78" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_1p;" vertex="1" parent="1">
-          <mxGeometry x="287" y="1090" width="9" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
