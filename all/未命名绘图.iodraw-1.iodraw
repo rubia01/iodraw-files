@@ -95,6 +95,9 @@
         <mxCell id="d3PKZgTGXaKYkBnGd6AW-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;网线，电源线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="973" y="1360" width="123" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="d3PKZgTGXaKYkBnGd6AW-50" value="IC" style="shadow=0;dashed=0;align=center;html=1;strokeWidth=1;shape=mxgraph.electrical.logic_gates.qfp_ic;whiteSpace=wrap;labelNames=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,a1,b1,c1,d1,e1,f1,g1,h1,i1,j1,k1,l1,m1,n1;" vertex="1" parent="1">
+          <mxGeometry x="196" y="1210" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
