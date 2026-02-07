@@ -28,9 +28,6 @@
         <mxCell id="d3PKZgTGXaKYkBnGd6AW-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;感知单元组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1595" width="10" height="120" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
