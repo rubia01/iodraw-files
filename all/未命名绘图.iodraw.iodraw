@@ -184,11 +184,6 @@
             <mxRectangle width="60" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EiTiD2sra6U_jy_aoz7T-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiTiD2sra6U_jy_aoz7T-42">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="1200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EiTiD2sra6U_jy_aoz7T-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiTiD2sra6U_jy_aoz7T-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="995" as="targetPoint" />
