@@ -111,6 +111,9 @@
         <mxCell id="d3PKZgTGXaKYkBnGd6AW-64" value="COM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="d3PKZgTGXaKYkBnGd6AW-59">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="d3PKZgTGXaKYkBnGd6AW-91" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_m420;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1068" width="20" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
