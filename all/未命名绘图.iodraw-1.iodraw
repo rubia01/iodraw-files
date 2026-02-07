@@ -52,12 +52,6 @@
             <mxPoint x="810" y="1800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-26" value="485" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1548" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-28" value="电源" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="216" y="1455" width="30" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
