@@ -93,7 +93,7 @@
         <mxCell id="d3PKZgTGXaKYkBnGd6AW-54" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;网线，电源线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="984" y="1348" width="123" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-57" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d3PKZgTGXaKYkBnGd6AW-57" value="剐蹭检测" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72" y="1040" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
