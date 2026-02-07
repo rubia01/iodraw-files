@@ -28,6 +28,12 @@
         <mxCell id="d3PKZgTGXaKYkBnGd6AW-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;感知单元组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="d3PKZgTGXaKYkBnGd6AW-17" value="" style="shape=filledEdge;curved=0;rounded=0;fixDash=1;endArrow=none;strokeWidth=10;fillColor=#ffffff;edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="d3PKZgTGXaKYkBnGd6AW-2">
+          <mxGeometry width="60" height="40" relative="1" as="geometry">
+            <mxPoint x="230" y="1700" as="sourcePoint" />
+            <mxPoint x="370" y="1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
