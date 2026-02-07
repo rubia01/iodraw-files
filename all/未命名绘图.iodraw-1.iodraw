@@ -111,9 +111,6 @@
         <mxCell id="d3PKZgTGXaKYkBnGd6AW-64" value="COM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="d3PKZgTGXaKYkBnGd6AW-59">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-89" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.motorized_switch_4p;" vertex="1" parent="1">
-          <mxGeometry x="107" y="1133" width="199" height="70" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
