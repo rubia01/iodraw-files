@@ -184,11 +184,6 @@
             <mxRectangle width="60" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EiTiD2sra6U_jy_aoz7T-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiTiD2sra6U_jy_aoz7T-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EiTiD2sra6U_jy_aoz7T-91" value="感知单元" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="360" y="1040" width="180" height="90" as="geometry" />
         </mxCell>
@@ -218,10 +213,8 @@
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EiTiD2sra6U_jy_aoz7T-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EiTiD2sra6U_jy_aoz7T-95">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="1115" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="EiTiD2sra6U_jy_aoz7T-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EiTiD2sra6U_jy_aoz7T-26" target="EiTiD2sra6U_jy_aoz7T-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
