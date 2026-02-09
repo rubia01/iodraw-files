@@ -7,21 +7,6 @@
         <mxCell id="d3PKZgTGXaKYkBnGd6AW-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;边缘网关&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="1360" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="d3PKZgTGXaKYkBnGd6AW-59" target="d3PKZgTGXaKYkBnGd6AW-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="759.5000000000002" y="985" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d3PKZgTGXaKYkBnGd6AW-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="d3PKZgTGXaKYkBnGd6AW-59" target="d3PKZgTGXaKYkBnGd6AW-39" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="709.25" y="985" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_l-DgWdeqxBYIG5U9yuU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3PKZgTGXaKYkBnGd6AW-59" target="d3PKZgTGXaKYkBnGd6AW-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="809.75" y="985" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="d3PKZgTGXaKYkBnGd6AW-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;感知单元组&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（一堆感知单元）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="1800" width="280" height="60" as="geometry" />
         </mxCell>
