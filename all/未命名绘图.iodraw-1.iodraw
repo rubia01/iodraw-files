@@ -150,8 +150,8 @@
         <mxCell id="_l-DgWdeqxBYIG5U9yuU-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="466" y="718" width="555" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="_l-DgWdeqxBYIG5U9yuU-24" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" vertex="1" parent="1">
-          <mxGeometry x="1126" y="1131" width="204" height="219" as="geometry" />
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-24" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="1200" width="219" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
