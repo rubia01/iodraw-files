@@ -151,7 +151,16 @@
           <mxGeometry x="820" y="1582" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_l-DgWdeqxBYIG5U9yuU-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;485排线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1592" width="144" height="30" as="geometry" />
+          <mxGeometry x="769" y="1589" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;485排线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="718" y="1586" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;485排线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="664" y="1592" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1187" y="835" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
