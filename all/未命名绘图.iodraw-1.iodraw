@@ -109,7 +109,7 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_l-DgWdeqxBYIG5U9yuU-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="340" y="570" width="976" height="952" as="geometry" />
+          <mxGeometry x="340" y="570" width="644" height="656" as="geometry" />
         </mxCell>
         <mxCell id="_l-DgWdeqxBYIG5U9yuU-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;报警屏功能&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="964" y="638" width="120" height="80" as="geometry" />
