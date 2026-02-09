@@ -160,7 +160,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_l-DgWdeqxBYIG5U9yuU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.998;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d3PKZgTGXaKYkBnGd6AW-46" target="_l-DgWdeqxBYIG5U9yuU-31">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1336" y="1493" />
+              <mxPoint x="1336" y="1398" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
