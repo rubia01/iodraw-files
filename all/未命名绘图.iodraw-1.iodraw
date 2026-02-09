@@ -210,7 +210,7 @@
             <mxPoint x="1128" y="1875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_l-DgWdeqxBYIG5U9yuU-62" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-62" value="总电源" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1132" y="1772" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
