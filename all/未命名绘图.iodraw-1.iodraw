@@ -173,7 +173,7 @@
         <mxCell id="_l-DgWdeqxBYIG5U9yuU-41" value="两根线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="429" y="992" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_l-DgWdeqxBYIG5U9yuU-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="d3PKZgTGXaKYkBnGd6AW-46">
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1.003;exitY=0.927;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_l-DgWdeqxBYIG5U9yuU-5" target="d3PKZgTGXaKYkBnGd6AW-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1337" y="1539" as="sourcePoint" />
             <mxPoint x="1437" y="1539" as="targetPoint" />
@@ -181,6 +181,11 @@
         </mxCell>
         <mxCell id="_l-DgWdeqxBYIG5U9yuU-48" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="_l-DgWdeqxBYIG5U9yuU-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-49" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_l-DgWdeqxBYIG5U9yuU-47">
+          <mxGeometry x="0.0016" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
