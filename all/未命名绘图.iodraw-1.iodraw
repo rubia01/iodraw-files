@@ -204,10 +204,10 @@
         <mxCell id="_l-DgWdeqxBYIG5U9yuU-58" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;12V电源&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="_l-DgWdeqxBYIG5U9yuU-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_l-DgWdeqxBYIG5U9yuU-60" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="916" y="1741" as="sourcePoint" />
-            <mxPoint x="1016" y="1741" as="targetPoint" />
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-61" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.826;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_l-DgWdeqxBYIG5U9yuU-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1078" y="1925" as="sourcePoint" />
+            <mxPoint x="1128" y="1875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
