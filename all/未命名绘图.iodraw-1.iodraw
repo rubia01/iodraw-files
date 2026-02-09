@@ -150,8 +150,8 @@
         <mxCell id="_l-DgWdeqxBYIG5U9yuU-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="466" y="718" width="555" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="_l-DgWdeqxBYIG5U9yuU-31" value="Button Text" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1102" y="1471" width="150" height="50" as="geometry" />
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-31" value="交换机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1236" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
