@@ -150,8 +150,20 @@
         <mxCell id="_l-DgWdeqxBYIG5U9yuU-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="466" y="718" width="555" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="_l-DgWdeqxBYIG5U9yuU-25" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.horCableDuct;" vertex="1" parent="1">
-          <mxGeometry x="1023" y="1323" width="160" height="15" as="geometry" />
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-26" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1118" y="1422" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-27" value="Button 1" style="text;strokeColor=#008CFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.topButton;rSize=10;fillColor=#008CFF;fontColor=#ffffff;fontSize=17;fontStyle=1;" vertex="1" parent="_l-DgWdeqxBYIG5U9yuU-26">
+          <mxGeometry width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-28" value="Button 2" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="_l-DgWdeqxBYIG5U9yuU-26">
+          <mxGeometry y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-29" value="Button 3" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="_l-DgWdeqxBYIG5U9yuU-26">
+          <mxGeometry y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_l-DgWdeqxBYIG5U9yuU-30" value="Button 4" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.bottomButton;rSize=10;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="_l-DgWdeqxBYIG5U9yuU-26">
+          <mxGeometry y="150" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
