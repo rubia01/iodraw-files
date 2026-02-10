@@ -7,13 +7,8 @@
         <mxCell id="wwGsRQq1XpMX9-Fw0N4s-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="640" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="wwGsRQq1XpMX9-Fw0N4s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.8;exitDx=0;exitDy=0;" edge="1" parent="1" source="wwGsRQq1XpMX9-Fw0N4s-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="900" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wwGsRQq1XpMX9-Fw0N4s-4" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="270" y="730" width="75" height="20" as="geometry" />
+          <mxGeometry x="370" y="900" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
