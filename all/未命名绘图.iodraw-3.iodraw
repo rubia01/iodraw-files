@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wwGsRQq1XpMX9-Fw0N4s-1" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.temperatureActuatedSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="260" y="380" width="75" height="31" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
