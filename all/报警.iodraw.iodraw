@@ -46,8 +46,11 @@
         <mxCell id="mSixKTT2OPcPkZR-8nDa-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;采集到基础数据&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1100&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="1240" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mSixKTT2OPcPkZR-8nDa-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;采集到基础数据&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1100&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mSixKTT2OPcPkZR-8nDa-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;进行倾角计算&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1400" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mSixKTT2OPcPkZR-8nDa-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;进行倾角计算&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="1410" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
