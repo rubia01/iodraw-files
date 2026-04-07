@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mSixKTT2OPcPkZR-8nDa-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;采集到基础数据&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1100&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="440" width="200" height="40" as="geometry" />
+          <mxGeometry x="1800" y="400" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mSixKTT2OPcPkZR-8nDa-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;积累一段时间数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="560" width="200" height="40" as="geometry" />
+          <mxGeometry x="1920" y="520" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mSixKTT2OPcPkZR-8nDa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.152;entryY=-0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mSixKTT2OPcPkZR-8nDa-1" target="mSixKTT2OPcPkZR-8nDa-4">
           <mxGeometry relative="1" as="geometry" />
