@@ -23,7 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mSixKTT2OPcPkZR-8nDa-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;阈值&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;±50&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="720" width="200" height="80" as="geometry" />
+          <mxGeometry x="1040" y="640" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mSixKTT2OPcPkZR-8nDa-18" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="650" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
