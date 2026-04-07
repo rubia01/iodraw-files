@@ -73,6 +73,9 @@
         <mxCell id="mSixKTT2OPcPkZR-8nDa-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;阈值信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1560" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="mSixKTT2OPcPkZR-8nDa-46" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据合并&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1720" width="200" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
